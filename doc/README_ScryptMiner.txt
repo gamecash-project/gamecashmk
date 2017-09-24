@@ -10,7 +10,7 @@ After that, just run the GUI executable.
 
 LICENSING INFORMATION
 
-===
+===GAMECASH
 
 Copyright (C) 2011 by Matoking
 

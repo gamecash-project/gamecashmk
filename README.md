@@ -1,3 +1,3 @@
-FooCoin (FOO)
+GameCash (FOO)
 
 Blah, blah, blah.
